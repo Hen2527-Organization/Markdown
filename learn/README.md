@@ -12,5 +12,24 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 [APiHost](https://apihost.tk/)
 
+# Content
+[Introducing](/learn/README.md)
+
+[Headers](/learn/headers.md)
+
+[Text Styles](/learn/styles.md)
+
+[Blockquote](/learn/blockquote.md)
+
+[Linking](/learn/linking.md)
+
+[Checkbox](/learn/checkbox.md)
+
+[Listing](/learn/listing.md)
+
+[Coding Text / Box](/learn/code.md)
+
+[Adding HTML Codes](/learn/html.md)
+
 # Questions?
 Any Questions? [Email Us!](https://mailto:help@hen2527.tk/)
